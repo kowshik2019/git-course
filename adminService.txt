@@ -1,10 +1,20 @@
 add and remove users
 change the roles
 manage the database
-closing the database connection
+closing the connection
 
 change 1
 
-change 2 in my database
+change 2 in harsh's database# Database Management System
 
-change 2 in harsh's database
+### Features
+
+1. Add and remove users
+2. Change user roles
+3. Manage database
+4. Close the oracle database connection
+
+### Changelog
+
+* Change 1: Initial setup
+* Change 2: Updated in Harsh's database
